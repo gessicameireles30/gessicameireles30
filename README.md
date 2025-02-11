@@ -5,7 +5,7 @@
   <br> 
 - ### 💼 **Experiência:**
 
-  - **Estagiária Backend com Node.Js e AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Julho 2024 - Atualmente neste cargo_
+  - **Estagiária Backend com Node.Js e AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Julho 2024 _
       - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, etc.), Node.Js, JavaScript, TypeScript, MongoDB, SQL, ESlint, Swagger.**
   <br>
 
