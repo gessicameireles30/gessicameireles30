@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Géssica!! 👋
 
 - 💻 Backend Developer 
-- 🎓 Acadêmica de Sistemas de Informação no Instituto Federal Goiano - IFGO
+- 🎓 Bacharela em Sistemas de Informação no Instituto Federal Goiano - IFGO
   <br> 
 - ### 💼 **Experiência:**
 
