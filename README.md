@@ -5,8 +5,8 @@
   <br> 
 - ### 💼 **Experiência:**
 
-  - **Estagiária Backend com FullStack e AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Julho 2024  á Dezembro 2024_
-      - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, etc.), Node.Js, JavaScript, TypeScript, MongoDB, SQL, ESlint, Swagger, HTML, CSS.**
+  - **Estagiária Backend e AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Julho 2024  á julho 2025_
+      - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, etc.), Java, Spring Boot, PostgreSQL, MongoDB, SQL, Swagger, HTML, CSS.**
   <br>
 
 
