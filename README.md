@@ -6,25 +6,31 @@
 - ### 💼 **Experiência:**
 
   - **Estagiária Backend e AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Julho 2024  á julho 2025_
-      - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, etc.), Java, Spring Boot, PostgreSQL, MongoDB, SQL, Swagger, HTML, CSS.**
+      - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, etc.), Java, Spring Boot, PostgreSQL, MongoDB, SQL, Swagger, HTML, CSS, Microservices, Docker.**
   <br>
 
 
 ## Hards Skills
 
-<div style="display: inline_block"><br>
+<p align="left">
+  <img align="center" alt="Java" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
-<img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+  <img align="center" alt="Spring Boot" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="Docker" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+  <img align="center" alt="AWS" height="30" width="40" 
+  src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+
+  <img align="center" alt="Microservices" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+</p>
 
 
 <br><br>
